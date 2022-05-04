@@ -4,11 +4,14 @@ Latest on top.
 
 Students' Ages: 7-17
 
+## 2022-05-04
+1. [Angle, Solid Angle, General Definition, Arbitrary Surfaces, Numerical Analysis](angle-solidangle-2022-05-04.pdf)
+
 ## 2022-05-03
 1. Class 12: Angle. Solid angle. 
-2. Class 10: Summation of numbers till 100, 1000. Areas and Arithmetic Progression. Class 6-9: Summation of numbers till 10, 20, 50, 100. 
+2. Class 10: Summation of numbers till 100, 1000. [Areas and Arithmetic Progression.](areas-arithmeticprogression_2022-05-03.pdf) Class 6-9: Summation of numbers till 10, 20, 50, 100. 
 3. Bharatnatyam: Two new steps with _Tripataka mudra_. General Dance. 
-4. Website seeing, demerits of existing website, building website on GitHub. 
+4. Website seeing, demerits of existing website, [building website on GitHub](https://trance-himalaya.github.io/trance-himalaya/). 
 
 ## 2022-05-02
 1. Yoga asanas on a big rock by a small tributary in Mandakini valley. 
