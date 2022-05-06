@@ -7,6 +7,11 @@ Students' Ages: 7-17
 ## 2022-05-05
 1. Website development through GitHub pages. 
 2. [Coulomb's Law, Guass's Law, Derivation of one from another.](electricfield_2022-05-04-05.pdf) 
+3. Arithmetic Progression, Geometric Progression
+4. Class 10: Revision questions from MCQ book of Real Numbers, Polynomials, Arithmetic Progression
+5. Class 7: Sets 
+6. Class 6: Integers 
+7. Bharatnatyam 30 Minutes
 
 ## 2022-05-04
 1. [Angle, Solid Angle, General Definition, Arbitrary Surfaces, Numerical Analysis](angle-solidangle-2022-05-04.pdf)
