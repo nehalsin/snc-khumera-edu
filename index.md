@@ -4,6 +4,11 @@ Latest on top.
 
 Students' Ages: 7-17
 
+## 2022-05-07
+1. Senior Citizens Maintenance Act: talk completion, further discussion, questions by girls, relevant points for girls ahead in their lives. 
+2. Math exercises Class 6-10. Doubts coverage. 
+3. Class 12: [Electrostatics](electrostatics_2022-05-06-07.pdf)
+
 ## 2022-05-06
 1. Math classes for 6-10. Class 10: Arithmetic Progression - exercises. Class 6: Integers - further exercises. Class 7: Sets - further exercises. 
 2. [Maintenance and Welfare of Parents and Senior Citizens Act, 2007](https://en.m.wikipedia.org/wiki/Maintenance_and_Welfare_of_Parents_and_Senior_Citizens_Act,_2007): [Talk by Renu ma'am and Anisha Narula ji](https://m.facebook.com/story.php?story_fbid=385561173484954&id=100000842225466&sfnsn=wiwspwa). [Live Mind Mapping](seniorcitizenmaintenanceact-renuji-2022-05-06.pdf). 
@@ -43,4 +48,5 @@ Students' Ages: 7-17
 1. Dance on film music. Bharatanatyam basic steps teaching and practice. Solo dance (semi classical). Other dances with students.
 
 ## Upcoming
-  - [ ] Problems of the past & futuristic solutions for a harmonious society: A Brainstorming session with students. General social questions extending upon the Senior Citizen Maintenance Act Talk. 
+  - [ ] Papers' collection
+  
